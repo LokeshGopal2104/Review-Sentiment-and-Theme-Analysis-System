@@ -1,0 +1,7 @@
+{
+    "accuracy_score": 0.9114954221770092,
+    "precision_score": 0.9264238173300161,
+    "recall_score": 0.9114954221770092,
+    "f1_score": 0.9173276705873911,
+    "cls_report": "              precision    recall  f1-score   support\n\n    negative       0.52      0.71      0.60        93\n    positive       0.97      0.93      0.95       890\n\n    accuracy                           0.91       983\n   macro avg       0.75      0.82      0.78       983\nweighted avg       0.93      0.91      0.92       983\n"
+}
